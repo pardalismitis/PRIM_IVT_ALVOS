@@ -239,6 +239,9 @@ Criar uma base consistente de alvos de conservação para:
 ## Autoria
 
 Coordenação de Análises Geoespaciais para Conservação de Espécies - COESP
+
 Coordenação Geral de Estratégias para Conservação - CGCON
+
 Diretoria de Pesquisa, Avaliação e Monitoramento da Biodiversidade - DIBIO
+
 coesp@icmbio.gov.br
